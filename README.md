@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,23 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# Task Force Pro - Wallet Web Application
+
+## Overview
+
+Task Force Pro is a web application designed for users to track their financial transactions across multiple accounts, manage budgets, and generate reports. The app provides a detailed summary of expenses, income, and balances across different accounts, along with budget tracking and categorization.
+
+## Features
+
+- Track income and expense transactions.
+- Categorize transactions and create subcategories.
+- Set budgets for categories and receive notifications when exceeded.
+- Generate reports based on custom time gaps (daily, weekly, monthly).
+- Visualize financial data using graphs and charts.
+
+## Prerequisites
+
+- Node.js and npm installed.
+- MongoDB database setup (local or remote).
+>>>>>>> feature: implement server router, controller,services,modes and index
